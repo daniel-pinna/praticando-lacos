@@ -1,0 +1,15 @@
+/home/daniel/projetcs/alura/csharp/praticando-lacos/bin/Debug/net8.0/praticando-lacos
+/home/daniel/projetcs/alura/csharp/praticando-lacos/bin/Debug/net8.0/praticando-lacos.deps.json
+/home/daniel/projetcs/alura/csharp/praticando-lacos/bin/Debug/net8.0/praticando-lacos.runtimeconfig.json
+/home/daniel/projetcs/alura/csharp/praticando-lacos/bin/Debug/net8.0/praticando-lacos.dll
+/home/daniel/projetcs/alura/csharp/praticando-lacos/bin/Debug/net8.0/praticando-lacos.pdb
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.AssemblyInfoInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.AssemblyInfo.cs
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.csproj.CoreCompileInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.sourcelink.json
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.dll
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/refint/praticando-lacos.dll
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.pdb
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/praticando-lacos.genruntimeconfig.cache
+/home/daniel/projetcs/alura/csharp/praticando-lacos/obj/Debug/net8.0/ref/praticando-lacos.dll
