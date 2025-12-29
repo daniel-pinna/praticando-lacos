@@ -6,4 +6,3 @@ Temas praticas nestes exercícios:
   -  Operadores Lógicos
   -  Laço de Repetição FOR
   -  Laço de Repetição FOREACH
-  -  
